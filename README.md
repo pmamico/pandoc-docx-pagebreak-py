@@ -5,7 +5,7 @@ Pandoc filter to insert page break or table-of-contents in docx file
 ### install
 
 ```bash
-pip3 install git+https://github.com/pandocker/pandoc-docx-pagebreak-py
+pip3 install git+https://github.com/pmamico/pandoc-docx-pagebreak-py
 ```
 
 ### Usage
